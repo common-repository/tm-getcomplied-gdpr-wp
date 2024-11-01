@@ -1,0 +1,105 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: GetComplied with GDPR for WordPress\n"
+"POT-Creation-Date: 2020-01-21 11:30+0000\n"
+"PO-Revision-Date: 2020-01-21 11:33+0000\n"
+"Last-Translator: Rúben Martins <geral@rubenmartins.pt>\n"
+"Language-Team: Rúben Martins <geral@rubenmartins.pt>\n"
+"Language: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/options.page.php:14
+msgid "GetComplied - GDPR Platform"
+msgstr "GetComplied - Plataforma RGPD"
+
+#: admin/options.page.php:27
+msgid "Follow these steps in order to get GetComplied installed."
+msgstr "Siga estas etapas para instalar o GetComplied."
+
+#: admin/options.page.php:36
+msgid "Visit"
+msgstr "Visite"
+
+#: admin/options.page.php:36
+msgid "and create an account."
+msgstr "e crie uma conta."
+
+#: admin/options.page.php:48
+msgid "Create at least 1 policy and 1 cookie."
+msgstr "Crie no mínimo 1 politica e 1 cookie."
+
+#: admin/options.page.php:60
+#, php-format
+msgid ""
+"Create your project and add this site domain ( %s ) in the Info -> Project "
+"Domains."
+msgstr ""
+"Crie seu projeto e adicione este domínio do site ( %s ) em Informações -> "
+"Domínios do Projeto."
+
+#: admin/options.page.php:72
+msgid "Copy paste your Project ID."
+msgstr "Copie e cole o ID do Projeto."
+
+#: admin/options.page.php:85
+msgid "Insert your project id"
+msgstr "Insera o id do projeto"
+
+#: admin/options.page.php:87
+msgid "Save Project ID"
+msgstr "Guarde o ID do Projeto"
+
+#: admin/options.page.php:103
+msgid "Open your website and check your compliances"
+msgstr "Abra seu site e verifique sua conformidade"
+
+#: admin/options.page.php:104
+msgid "Visit my website"
+msgstr "Visitar o meu site"
+
+#: admin/options.page.php:122
+msgid "Tutorial to install and configure this Plugin"
+msgstr "Tutorial para instalar e configurar este plug-in"
+
+#: admin/options.page.php:123
+msgid "Visit the offical site: www.getcomplied.com"
+msgstr "Visite o site oficial: www.getcomplied.com"
+
+#: admin/options.page.php:124
+msgid "Developer Docs"
+msgstr "Documentos do programador"
+
+#: admin/options.page.php:125
+msgid "Follow us in FACEBOOK"
+msgstr "Siga-nos no Facebook"
+
+#: admin/options.page.php:126
+msgid "Follow us in TWITTER"
+msgstr "Siga-nos no Twitter"
+
+#: admin/tm_getcomplied_gdpr_wp.admin.class.php:75
+msgid "Configure"
+msgstr "Configurar"
+
+#: includes/define.inc.php:12
+msgid "GetComplied"
+msgstr "GetComplied"
+
+#~ msgid "Create at least 1 cookie"
+#~ msgstr "Crie no mínimo 1 cookie"
+
+#~ msgid "Save Settings"
+#~ msgstr "Guardar Alterações"
+
+#~ msgid "Open website"
+#~ msgstr "Abrir Website"
+
+#~ msgid "Don't have project yet?"
+#~ msgstr "Ainda não possui um projeto?"

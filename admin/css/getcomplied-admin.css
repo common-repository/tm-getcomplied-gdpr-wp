@@ -1,0 +1,147 @@
+
+body {
+	font-family: BlinkMacSystemFont, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;  
+	background-color: #f5f7f9;
+	color: #0d2b3e;
+}
+.mainnav{
+	margin-left: -20px;
+}
+
+#btn-edit,
+#btn-remove {
+	display: none;
+}
+
+#content-pane .scroll-container {
+	height: 100%;
+}
+.r-0 {
+	right: 0;
+}
+.t-10 {
+	top: -10px;
+}
+.w-140 {
+	width: 140px;
+}
+.w-inherit {
+	width: inherit !important;
+}
+.top-bar {
+	width: 100%;
+	background-color: #fff;
+}
+.bg-blue {
+	background-color: #19255a;
+}
+.text-blue {
+	color: #19255a;
+}
+.nav-item {
+	padding: 0 2px 0 1px;
+}
+.nav-item.active .btn {
+	background-color: #19255a;
+}
+.nav-item.active .btn .text-blue {
+	color: #fff;
+}
+.mt-05 {
+	margin-top: .05rem !important;
+}
+.logo-image {
+	height: auto;
+	width: 200px;
+	transform: translateY(-4px);
+}
+.font-weight-100 {
+	font-weight: 100;
+}
+.bg-white {
+	background-color: #fff;
+}
+.bg-grey {
+	background-color: #f5f7f9;
+}
+.drop-shadow {
+	box-shadow: 0 3px 10px rgba(130, 130, 130, 0.15);
+}
+.list-group-clean .list-group-item {
+	border: none;
+	background: transparent;
+}
+.o-hidden {
+	overflow: hidden;
+}
+.border-radius {
+	border-radius: 9px;
+}
+.text-dark-blue {
+	color: #0d2b3e;
+}
+.bg-light-blue {
+	background: #f5f7f9;
+}
+.w480 {
+	width: 480px;
+}
+.w420 {
+	width: 450px;
+}
+.w460 {
+	width: 460px;
+}
+.w468 {
+	width: 468px;
+}
+.w500 {
+	width: 500px;
+}
+.w515 {
+	width: 515px;
+}
+.max-w-224 {
+	max-width: 224px;
+}
+.w-230 {
+	width: 230px;
+}
+.plan .l-0 {
+	left: 0;
+}
+.plan .t-0 {
+	top: 0;
+}
+.plan .min-w-95 {
+	min-width: 95px;
+}
+.plan .position-y-center {
+	top: 50%;
+	-moz-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	-o-transform: translateY(-50%);
+	-webkit-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+.plan .text-size-s {
+	font-size: calc(12px + 0.3vw);
+}
+.plan .text-size-xs {
+	font-size: 0.8rem;
+}
+.plan .text-size-xxs {
+	font-size: 0.7rem;
+}
+.plan .text-size-xxxs {
+	font-size: 0.6rem;
+}
+.w-34 {
+	width: 34px;
+}
+.w-1em {
+	width: 1.0em !important;
+}
+.cursor-default {
+	cursor: default !important;
+}
